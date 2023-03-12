@@ -11,5 +11,5 @@ main(){
 			max=i*(n-i);
 		}
 	}
-	cout<<max;
+	cout<<max<<endl;
 } 
